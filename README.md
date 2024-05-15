@@ -3,11 +3,11 @@
 Python program to process Signals
 
 Basic Operations that are added:
-Adding Sine waves
-Convolution
+Adding Sine waves,
+Convolution,
 Cross and Auto Correlation
 
 Basic Filters like:
-High Pass Filter
-Low Pass Filter
+High Pass Filter,
+Low Pass Filter,
 Band Pass Filter
